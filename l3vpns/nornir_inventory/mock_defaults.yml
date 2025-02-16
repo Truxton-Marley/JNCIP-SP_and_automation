@@ -1,0 +1,5 @@
+# defaults.yaml
+# mock file; password and username would need to be filled in
+---
+username: <your username>
+password: <your password>

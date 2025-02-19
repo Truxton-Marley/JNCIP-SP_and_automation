@@ -11,3 +11,6 @@ The primary objectives of this project are:
 
 All labs are on EVE-NG using a combination of vMX and Cisco IOS. Jupyter Lab is used to document notes, configs, and outputs. The notebooks also function as my study notes for the exam.
 
+
+The Juniper Open Learning JNCIP-SP was the basis for most of the notes.
+
